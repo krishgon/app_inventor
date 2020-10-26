@@ -1,0 +1,10 @@
+Settings color
+
+task_arn_bg - White
+
+switch- 251, 136, 4; #fb8804
+	text - white
+'from' and 'to'_lbl - same as arn_bg
+	text - white
+'from' and 'to'_txtbx - white
+	text- black
